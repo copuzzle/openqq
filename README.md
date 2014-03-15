@@ -1,4 +1,4 @@
-openqqpy
+openqq
 ========
 
 OpenQQ SDK for Python
